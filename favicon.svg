@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <radialGradient id="b1" cx="0.32" cy="0.28" r="0.9">
+      <stop offset="0" stop-color="#F2988A"/><stop offset="0.35" stop-color="#E0654F"/><stop offset="1" stop-color="#C2503C"/>
+    </radialGradient>
+    <radialGradient id="b2" cx="0.32" cy="0.28" r="0.9">
+      <stop offset="0" stop-color="#C3CBC4"/><stop offset="0.35" stop-color="#97A198"/><stop offset="1" stop-color="#79857B"/>
+    </radialGradient>
+    <radialGradient id="b3" cx="0.32" cy="0.28" r="0.9">
+      <stop offset="0" stop-color="#8CCBAA"/><stop offset="0.35" stop-color="#4C9E77"/><stop offset="1" stop-color="#37795A"/>
+    </radialGradient>
+    <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FAF8F1"/><stop offset="1" stop-color="#EEE9DB"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="9" fill="url(#clay)"/>
+  <rect x="0.75" y="0.75" width="30.5" height="30.5" rx="8.4" fill="none" stroke="#24332C" stroke-opacity="0.10" stroke-width="1.5"/>
+  <circle cx="9.6" cy="21.5" r="4.4" fill="url(#b1)"/>
+  <circle cx="17.2" cy="18.2" r="4.9" fill="url(#b2)"/>
+  <circle cx="24.2" cy="13.4" r="3.8" fill="url(#b3)"/>
+</svg>
